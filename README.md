@@ -73,7 +73,7 @@ npm install
 **Running the Project**
 
 ```bash
-npm expo start
+npm start
 ```
 
 **Expo Go**
